@@ -13,7 +13,7 @@ typedef struct No {
     struct No* proximo;
 } No;
 
-
+int funcaoIsatty();
 void listarItem(No *inicio, char *usuario);
 No* pesquisarItem(No *inicio, char *usuario);
 void carregarDados(No **inicio);
@@ -21,5 +21,6 @@ void cadastrarViagem(No** inicio, char *usuario);
 int verificarDuplicado(No* inicio, int id_procurado);
 bool editarItem(No *inicio, char *usuario);
 void liberarLista(No **inicio);
+void excluirViagem(No **inicio, char *usuario);
 
 #endif

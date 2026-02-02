@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include <string.h>
 #include "autenticacao.h"
 #include "logs.h"
 #include "dados.h"
@@ -13,14 +12,19 @@ int main(void)
     int escolha = 0;
 
     Validar usuario; // puxar o usuário da sessão por aqui
+
+    printf("\n=============================================\n");
+    printf("       PROGRAMA DE TRANSPORTE AEREO          \n");
+    printf("=============================================\n");
+
     do
     {
         usuario = login(); // função de autenticação em autenticacao.c
-        if(strcmp(usuario.usuario, "usuario_incorreto") == 0){
-            return 0;
-        }
+        if (!funcaoIsatty() && !usuario.status) exit(0); // verificação se o arquivo foi executado
+                                                                // no modo input interativo, ou via .txt
+                                                                // caso seja via .txt para a execução ao errar login
     } while (!usuario.status);
-
+    
     // menu
 
     while (escolha != 6)
@@ -54,6 +58,18 @@ int main(void)
             break;
 
         case 2:
+            // especifico para casos de testes
+            if (!funcaoIsatty()) {
+                int listaVazia;  // 1 = lista vazia
+                                 // 0 = lista preenchida
+
+                scanf("%d", &listaVazia);
+                
+                if (listaVazia == 1) {
+                    liberarLista(&lista);
+                }
+            }
+
             listarItem(lista, usuario.usuario);
             break;
 
@@ -68,7 +84,7 @@ int main(void)
             break;
 
         case 5:
-            // excluir
+            excluirViagem(&lista, usuario.usuario);
             break;
 
         case 6:

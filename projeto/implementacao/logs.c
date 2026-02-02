@@ -39,12 +39,12 @@ void registrarLog(char *usuario, LOG_TIPOS tipo, LOG_DADOS dados) {
             break;
         case ADD_ITEM:
             if (dados.info_add.status) {
-                snprintf(msg, sizeof(msg), "O usuário %s cadastrou uma nova viagem com o id %d.\n", usuario, dados.info_add.id);
+                snprintf(msg, sizeof(msg), "O usuário %s cadastrou uma nova viagem com o ID %d.\n", usuario, dados.info_add.id);
             } else {
                 snprintf(
                     msg, 
                     sizeof(msg), 
-                    "O usuário %s tentou realizar um cadastro da viagem de id %d, porém sem sucesso. (Motivo: %s)\n", 
+                    "O usuário %s tentou realizar um cadastro da viagem de ID %d, porém sem sucesso. (Motivo: %s)\n", 
                     usuario, 
                     dados.info_add.id, 
                     dados.info_add.motivoDeFalha
@@ -59,17 +59,17 @@ void registrarLog(char *usuario, LOG_TIPOS tipo, LOG_DADOS dados) {
                 snprintf(
                     msg, 
                     sizeof(msg), 
-                    "O usuário %s procurou pela viagem de código \"%s\". A viagem foi encontrada com sucesso!\n", 
+                    "O usuário %s procurou pela viagem de ID %d. A viagem foi encontrada com sucesso!\n", 
                     usuario, 
-                    dados.info_pesq.codigo
+                    dados.info_pesq.id
                 );
             } else {
                 snprintf(
                     msg, 
                     sizeof(msg), 
-                    "O usuário %s procurou pela viagem de código \"%s\". Nenhum resultado encontrado.\n", 
+                    "O usuário %s procurou pela viagem de ID %d. Nenhum resultado encontrado.\n", 
                     usuario, 
-                    dados.info_pesq.codigo
+                    dados.info_pesq.id
                 );
             }
             break;
@@ -86,11 +86,30 @@ void registrarLog(char *usuario, LOG_TIPOS tipo, LOG_DADOS dados) {
                 snprintf(
                     msg, 
                     sizeof(msg),
-                    "O usuário %s tentou editar uma viagem, no entanto inseriu o id \"%d\". (%s).\n",
+                    "O usuário %s tentou editar uma viagem, no entanto inseriu o ID \"%d\". (%s).\n",
                     usuario,
                     dados.info_edit.id,
                     dados.info_edit.motivoDeFalha
                 ); 
+            }
+            break;
+        case EXC_ITEM:
+            if (dados.info_exc.status) {
+                snprintf(
+                    msg,
+                    sizeof(msg),
+                    "O usuário %s excluiu a viagem de ID %d.\n",
+                    usuario,
+                    dados.info_exc.id
+                );
+            } else {
+                snprintf(
+                    msg,
+                    sizeof(msg),
+                    "O usuário %s tentou excluir a viagem de ID %d, porém não foram encontradas viagens com este ID.\n",
+                    usuario,
+                    dados.info_exc.id
+                );
             }
             break;
         case ENCERRAR:
@@ -136,13 +155,13 @@ void registrarSaida(SAIDA_TIPOS tipo, SAIDA_DADOS dados) {
             }
 
             if(posicao == 0){
-                fprintf(arquivo, "\n===Sem registros na lista===\n");
+                fprintf(arquivo, "\n=== Sem registros na lista ===\n");
             }
 
             break;
         case SAIDA_PESQ_ITEM:
             if (!dados.info_pesq.status) {
-                fprintf(arquivo, "===Voo não encontrado===\n");
+                fprintf(arquivo, "=== Voo não encontrado ===\n");
                 break;
             }
 

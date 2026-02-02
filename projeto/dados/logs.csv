@@ -92,3 +92,213 @@
 2026/01/21 - 11:30:37,O usuário matheus tentou editar uma viagem, no entanto inseriu o id "2". (Id Duplicado).
 2026/01/21 - 11:30:54,O usuário matheus procurou pela viagem de código "0". A viagem foi encontrada com sucesso!
 2026/01/21 - 11:31:00,O usuário matheus editou a viagem de código "0".
+2026/01/24 - 21:33:30,O usuário logou-se como "matheus" com sucesso!
+2026/01/24 - 21:33:36,O usuário matheus listou todas as viagens.
+2026/01/24 - 21:34:00,O usuário matheus procurou pela viagem de código "0". A viagem foi encontrada com sucesso!
+2026/01/24 - 21:34:19,O usuário matheus editou a viagem de código "a".
+2026/01/24 - 21:34:34,O usuário matheus excluiu a viagem de id 37.
+2026/01/24 - 21:34:36,O usuário matheus listou todas as viagens.
+2026/01/24 - 21:34:59,O usuário matheus procurou pela viagem de código "0". Nenhum resultado encontrado.
+2026/01/24 - 21:35:22,O usuário matheus tentou excluir a viagem de id 37, porém não foram encontradas viagens com este id.
+2026/01/24 - 21:35:33,O usuário matheus encerrou o programa.
+2026/01/24 - 22:22:47,O usuário logou-se como "matheus" com sucesso!
+2026/01/24 - 22:23:00,O usuário matheus excluiu a viagem de id 1234.
+2026/01/24 - 22:23:19,O usuário logou-se como "matheus" com sucesso!
+2026/01/24 - 22:23:19,O usuário matheus excluiu a viagem de id 1234.
+2026/01/24 - 22:24:13,O usuário logou-se como "matheus" com sucesso!
+2026/01/24 - 22:24:13,O usuário matheus tentou excluir a viagem de id 99999, porém não foram encontradas viagens com este id.
+2026/01/24 - 22:24:33,O usuário logou-se como "matheus" com sucesso!
+2026/01/24 - 22:24:33,O usuário matheus excluiu a viagem de id 1234.
+2026/01/25 - 10:20:25,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/25 - 10:20:25,O usuário Luciano_Tadeu cadastrou uma nova viagem com o id 3000.
+2026/01/25 - 10:21:36,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/25 - 10:21:36,O usuário Luciano_Tadeu tentou realizar um cadastro da viagem de id 3000, porém sem sucesso. (Motivo: Id Duplicado)
+2026/01/25 - 10:23:01,O usuário logou-se como "matheus" com sucesso!
+2026/01/25 - 10:23:01,O usuário matheus tentou excluir a viagem de id 99999, porém não foram encontradas viagens com este id.
+2026/01/25 - 10:24:46,O usuário logou-se como "matheus" com sucesso!
+2026/01/25 - 10:24:46,O usuário matheus excluiu a viagem de id 1234.
+2026/01/26 - 18:40:19,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 18:40:19,O usuário ennes listou todas as viagens.
+2026/01/26 - 18:57:31,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/26 - 18:58:05,O usuário Luciano_Tadeu cadastrou uma nova viagem com o id 1.
+2026/01/26 - 18:58:18,O usuário Luciano_Tadeu listou todas as viagens.
+2026/01/26 - 18:59:24,O usuário Luciano_Tadeu procurou pela viagem de código "a". A viagem foi encontrada com sucesso!
+2026/01/26 - 18:59:40,O usuário Luciano_Tadeu procurou pela viagem de código "0". Nenhum resultado encontrado.
+2026/01/26 - 19:00:10,O usuário Luciano_Tadeu procurou pela viagem de código "a". A viagem foi encontrada com sucesso!
+2026/01/26 - 19:00:35,O usuário Luciano_Tadeu editou a viagem de código "b".
+2026/01/26 - 19:00:57,O usuário Luciano_Tadeu encerrou o programa.
+2026/01/26 - 19:01:16,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/26 - 19:01:21,O usuário Luciano_Tadeu procurou pela viagem de código "a". Nenhum resultado encontrado.
+2026/01/26 - 19:01:44,O usuário Luciano_Tadeu procurou pela viagem de código "22". Nenhum resultado encontrado.
+2026/01/26 - 19:03:16,O usuário Luciano_Tadeu procurou pela viagem de código "1234". Nenhum resultado encontrado.
+2026/01/26 - 19:03:33,O usuário Luciano_Tadeu procurou pela viagem de código "minas2". Nenhum resultado encontrado.
+2026/01/26 - 19:03:43,O usuário Luciano_Tadeu procurou pela viagem de código "ABC123". A viagem foi encontrada com sucesso!
+2026/01/26 - 19:04:33,O usuário Luciano_Tadeu editou a viagem de código "ABC123".
+2026/01/26 - 19:29:01,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:29:59,O usuário ennes procurou pela viagem de código "1234". Nenhum resultado encontrado.
+2026/01/26 - 19:35:07,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:35:09,O usuário ennes listou todas as viagens.
+2026/01/26 - 19:37:53,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:37:56,O usuário ennes listou todas as viagens.
+2026/01/26 - 19:38:07,O usuário ennes procurou pela viagem de código "1234". Nenhum resultado encontrado.
+2026/01/26 - 19:45:30,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:45:36,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:46:42,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:46:46,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:47:25,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:47:31,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:48:07,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:48:12,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:49:58,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:50:02,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:50:57,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:51:00,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:51:38,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:51:43,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/26 - 19:51:53,O usuário ennes listou todas as viagens.
+2026/01/26 - 19:52:29,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 19:52:33,O usuário ennes listou todas as viagens.
+2026/01/26 - 20:45:54,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 20:45:56,O usuário ennes listou todas as viagens.
+2026/01/26 - 20:46:05,O usuário ennes procurou pela viagem de ID 2. A viagem foi encontrada com sucesso!
+2026/01/26 - 20:46:11,O usuário ennes encerrou o programa.
+2026/01/26 - 20:48:19,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 20:48:23,O usuário ennes procurou pela viagem de ID 2. A viagem foi encontrada com sucesso!
+2026/01/26 - 20:48:28,O usuário ennes encerrou o programa.
+2026/01/26 - 20:55:41,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/26 - 20:56:21,O usuário Luciano_Tadeu procurou pela viagem de ID -706742352. Nenhum resultado encontrado.
+2026/01/26 - 21:01:38,O usuário Luciano_Tadeu encerrou o programa.
+2026/01/26 - 21:03:41,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 21:03:53,O usuário ennes procurou pela viagem de ID 1. A viagem foi encontrada com sucesso!
+2026/01/26 - 21:03:59,O usuário ennes encerrou o programa.
+2026/01/26 - 21:04:12,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 21:04:14,O usuário ennes procurou pela viagem de ID 1. A viagem foi encontrada com sucesso!
+2026/01/26 - 21:04:30,O usuário ennes procurou pela viagem de ID 1. A viagem foi encontrada com sucesso!
+2026/01/26 - 21:04:42,O usuário ennes editou a viagem de código "b".
+2026/01/26 - 21:04:46,O usuário ennes tentou realizar um cadastro da viagem de id 1, porém sem sucesso. (Motivo: Id Duplicado)
+2026/01/26 - 21:04:53,O usuário ennes tentou realizar um cadastro da viagem de id 1, porém sem sucesso. (Motivo: Id Duplicado)
+2026/01/26 - 21:05:01,O usuário ennes cadastrou uma nova viagem com o id 36.
+2026/01/26 - 21:05:51,O usuário ennes encerrou o programa.
+2026/01/26 - 21:05:59,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 21:06:03,O usuário ennes procurou pela viagem de ID 36. A viagem foi encontrada com sucesso!
+2026/01/26 - 21:06:11,O usuário ennes editou a viagem de código "c".
+2026/01/26 - 21:06:12,O usuário ennes encerrou o programa.
+2026/01/26 - 21:14:58,Houve uma tentativa de login como "l", porém sem sucesso.
+2026/01/26 - 21:15:32,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 21:15:42,O usuário ennes encerrou o programa.
+2026/01/26 - 21:15:48,Houve uma tentativa de login como "l", porém sem sucesso.
+2026/01/26 - 21:15:55,O usuário logou-se como "ennes" com sucesso!
+2026/01/26 - 21:15:57,O usuário ennes encerrou o programa.
+2026/01/27 - 08:58:14,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 08:58:36,O usuário matheus listou todas as viagens.
+2026/01/27 - 08:58:47,O usuário matheus procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!2026/01/27 - 10:51:06,Houve uma tentativa de login como "usuario_incorreto", porém sem sucesso.
+2026/01/27 - 10:51:11,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 10:51:36,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 10:51:36,O usuário Luciano_Tadeu cadastrou uma nova viagem com o ID 3000.
+2026/01/27 - 10:52:11,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 10:52:11,O usuário Luciano_Tadeu cadastrou uma nova viagem com o ID 3000.
+2026/01/27 - 10:52:32,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 10:52:32,O usuário Luciano_Tadeu cadastrou uma nova viagem com o ID 3000.
+2026/01/27 - 10:52:36,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 10:52:36,O usuário Luciano_Tadeu tentou realizar um cadastro da viagem de ID 3000, porém sem sucesso. (Motivo: ID Duplicado)
+2026/01/27 - 10:53:05,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:53:05,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:53:21,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:53:21,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:53:53,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:53:53,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:54:00,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:54:00,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:54:12,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:54:12,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:54:14,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:54:14,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:54:17,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:54:17,O usuário ennes listou todas as viagens.
+2026/01/27 - 10:54:43,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:55:55,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:55:55,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/27 - 10:56:09,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:56:47,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:56:47,O usuário ennes procurou pela viagem de ID 928205648. Nenhum resultado encontrado.
+2026/01/27 - 10:57:10,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:57:10,O usuário ennes procurou pela viagem de ID -1719751104. Nenhum resultado encontrado.
+2026/01/27 - 10:57:18,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:57:18,O usuário ennes procurou pela viagem de ID -1049523008. Nenhum resultado encontrado.
+2026/01/27 - 10:57:53,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:57:53,O usuário ennes procurou pela viagem de ID 1931497488. Nenhum resultado encontrado.
+2026/01/27 - 10:57:56,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:57:56,O usuário ennes procurou pela viagem de ID 814616160. Nenhum resultado encontrado.
+2026/01/27 - 10:58:10,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:58:10,O usuário ennes procurou pela viagem de ID 1366665920. Nenhum resultado encontrado.
+2026/01/27 - 10:58:19,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:58:19,O usuário ennes procurou pela viagem de ID -1918563296. Nenhum resultado encontrado.
+2026/01/27 - 10:58:27,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:58:27,O usuário ennes procurou pela viagem de ID -1945417136. Nenhum resultado encontrado.
+2026/01/27 - 10:59:05,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:59:05,O usuário ennes procurou pela viagem de ID 472406400. Nenhum resultado encontrado.
+2026/01/27 - 10:59:15,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:59:15,O usuário ennes procurou pela viagem de ID 1736233424. Nenhum resultado encontrado.
+2026/01/27 - 10:59:18,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:59:18,O usuário ennes procurou pela viagem de ID 1649613808. Nenhum resultado encontrado.
+2026/01/27 - 10:59:24,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:59:24,O usuário ennes procurou pela viagem de ID -1389680432. Nenhum resultado encontrado.
+2026/01/27 - 10:59:32,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 10:59:32,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/27 - 11:00:09,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 11:00:09,O usuário matheus tentou excluir a viagem de ID 99999, porém não foram encontradas viagens com este ID.
+2026/01/27 - 11:00:26,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 11:00:26,O usuário matheus tentou excluir a viagem de ID 99999, porém não foram encontradas viagens com este ID.
+2026/01/27 - 11:01:15,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 11:01:15,O usuário matheus tentou excluir a viagem de ID 99999, porém não foram encontradas viagens com este ID.
+2026/01/27 - 11:01:27,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 11:01:27,O usuário matheus tentou excluir a viagem de ID 99999, porém não foram encontradas viagens com este ID.
+2026/01/27 - 11:02:12,O usuário logou-se como "matheus" com sucesso!
+2026/01/27 - 11:02:12,O usuário matheus excluiu a viagem de ID 1234.
+2026/01/27 - 11:03:03,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 11:03:03,O usuário ennes listou todas as viagens.
+2026/01/27 - 11:03:09,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 11:03:09,O usuário ennes procurou pela viagem de ID 1234. A viagem foi encontrada com sucesso!
+2026/01/27 - 11:13:16,Houve uma tentativa de login como "sfsd", porém sem sucesso.
+2026/01/27 - 11:13:17,Houve uma tentativa de login como "sdgs", porém sem sucesso.
+2026/01/27 - 11:13:18,Houve uma tentativa de login como "eter", porém sem sucesso.
+2026/01/27 - 14:10:49,Houve uma tentativa de login como "usuario_incorreto", porém sem sucesso.
+2026/01/27 - 14:10:57,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 14:34:05,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/27 - 14:34:17,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:34:17,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:35:19,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:35:19,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:35:26,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:35:26,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:37:58,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:37:58,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:38:34,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:38:34,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:38:42,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:38:42,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:39:15,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:39:15,O usuário ennes listou todas as viagens.
+2026/01/27 - 14:39:20,O usuário logou-se como "ennes" com sucesso!
+2026/01/27 - 14:39:20,O usuário ennes listou todas as viagens.
+2026/01/28 - 13:07:43,Houve uma tentativa de login como "usuario_incorreto", porém sem sucesso.
+2026/01/28 - 13:07:50,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/28 - 13:07:50,O usuário Luciano_Tadeu encerrou o programa.
+2026/01/28 - 13:12:04,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/28 - 13:12:04,O usuário Luciano_Tadeu cadastrou uma nova viagem com o ID 3000.
+2026/01/28 - 13:12:04,O usuário Luciano_Tadeu encerrou o programa.
+2026/01/28 - 13:12:55,O usuário logou-se como "Luciano_Tadeu" com sucesso!
+2026/01/28 - 13:12:55,O usuário Luciano_Tadeu tentou realizar um cadastro da viagem de ID 3000, porém sem sucesso. (Motivo: ID Duplicado)
+2026/01/28 - 13:12:55,O usuário Luciano_Tadeu encerrou o programa.
+2026/01/28 - 13:13:43,O usuário logou-se como "ennes" com sucesso!
+2026/01/28 - 13:13:43,O usuário ennes listou todas as viagens.
+2026/01/28 - 13:13:46,O usuário ennes encerrou o programa.
+2026/01/28 - 13:14:55,O usuário logou-se como "ennes" com sucesso!
+2026/01/28 - 13:14:55,O usuário ennes listou todas as viagens.
+2026/01/28 - 13:14:58,O usuário ennes encerrou o programa.
+2026/01/28 - 13:15:42,O usuário logou-se como "ennes" com sucesso!
+2026/01/28 - 13:15:42,O usuário ennes procurou pela viagem de ID 3000. A viagem foi encontrada com sucesso!
+2026/01/28 - 13:15:45,O usuário ennes encerrou o programa.
+2026/01/28 - 13:16:35,O usuário logou-se como "ennes" com sucesso!
+2026/01/28 - 13:16:35,O usuário ennes procurou pela viagem de ID 0. Nenhum resultado encontrado.
+2026/01/28 - 13:16:38,O usuário ennes encerrou o programa.
