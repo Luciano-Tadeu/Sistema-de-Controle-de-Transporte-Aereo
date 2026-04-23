@@ -1,19 +1,19 @@
-# Sistema de Controle de Transporte Aéreo - Flight Data Manager - AED2
+# Air Transport Management System - Flight Data Manager - AED2
 
-Sistema de informação para gestão de transporte aéreo desenvolvido como Trabalho Prático para a disciplina de **Algoritmos e Estruturas de Dados II** (UFMT).
+Information system for air transport management developed as a Practical Assignment for the **Algorithms and Data Structures II** course (UFMT).
 
-## 🛠 Estrutura do Projeto
+## 🛠 Project Structure
 
-O projeto segue a hierarquia de diretórios exigida:
+The project follows the required directory hierarchy:
 
-* **/implementacao**: Código-fonte em C com modularização por TADs (.h e .c).
-* **/dados**: Arquivos de persistência (.csv) para registros, usuários e logs.
-* **/testes**: Casos de teste (CT) para execução automatizada.
-* **/saida**: Arquivo `saida.csv` para persistência de resultados de consulta.
+* **/implementacao** (implementation): C source code modularized by ADTs (Abstract Data Types) using `.h` and `.c` files.
+* **/dados** (data): Persistence files (`.csv`) for records, users, and logs.
+* **/testes** (tests): Test cases (TC) for automated execution.
+* **/saida** (output): `saida.csv` file for persisting query results.
 
-## 🚀 Compilação e Execução
+## 🚀 Compilation and Execution
 
-Para compilar o projeto no Linux utilizando o `gcc`:
+To compile the project on Linux using `gcc`:
 
 ```bash
 cd implementacao
